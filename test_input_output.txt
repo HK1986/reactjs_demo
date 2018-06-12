@@ -1,0 +1,9 @@
+Test inputs
+	        Name: John Brown
+   Annual Salary: $60000
+	  Super Rate: 10%
+Test ouputs
+	Gross Income: 5000
+	  Income Tax: 921
+	  Net Income: 4079
+	Super Amount: 500
